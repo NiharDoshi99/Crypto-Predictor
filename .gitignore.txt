@@ -3,3 +3,4 @@
 next_10days
 out
 usersfib
+.DS_Store
