@@ -1,6 +1,2 @@
-100days_actual
-100days_predicted
-next_10days
-out
-usersfib
-.DS_Store
+100days_actual.csv
+100days_predicted.csv
